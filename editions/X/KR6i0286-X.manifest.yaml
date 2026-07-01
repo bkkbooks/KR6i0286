@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0286/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0286/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨度三昧經
+  identifiers:
+    krp: KR6i0286
+    cbeta: X01n0015
+    cbeta_old_id: X01n0015
+    authorityid: CA0001825
+    json_key: X0015
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0015.xml
+    old_id: X01n0015
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0286_000-X.yaml, hash: 'sha256:6832e337a96893999717100d056258d4d77974b4b66a8dbeffd430e06f394d6d'}
+  - {seq: 1, filename: KR6i0286_001-X.yaml, hash: 'sha256:ff39eea033d1754d01c0e55d3cacebae32ba8d68d5eed770fcbb5d3bb34663de'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0286_000-X.markers.yaml, hash: 'sha256:b57de08f946e7e9b3bad71fbfd87061ec865dc16f5d53d2ff120de2b6b2cee03'}
+  - {seq: 1, role: markers, filename: assets/KR6i0286_001-X.markers.yaml, hash: 'sha256:125a163eb0d42cd28405ba0964907ce213cb0d1926a4cf944f6f721385ac8d49'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0286_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6964
+  label: 佛說淨度三昧經卷第一
+  type: juan
+  level: 1
+hash: sha256:b697fc74a3214616f3136cb951d5a7d43a4a48fa094b8a7b748a97eefc8f4085

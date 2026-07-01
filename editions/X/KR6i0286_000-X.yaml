@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0286/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨度三昧經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0015.xml
+    old_id: X01n0015
+hash: sha256:6832e337a96893999717100d056258d4d77974b4b66a8dbeffd430e06f394d6d
